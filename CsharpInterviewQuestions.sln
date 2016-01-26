@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyMethodInjection",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceConcept", "InterfaceConcept\InterfaceConcept.csproj", "{216BA50A-F416-456F-A4CA-79D372D9CD98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcplicitInterfaceImplementation", "EcplicitInterfaceImplementation\EcplicitInterfaceImplementation.csproj", "{6466DBA1-30F2-45B2-B0DD-E57AFB099F64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{216BA50A-F416-456F-A4CA-79D372D9CD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{216BA50A-F416-456F-A4CA-79D372D9CD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{216BA50A-F416-456F-A4CA-79D372D9CD98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6466DBA1-30F2-45B2-B0DD-E57AFB099F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6466DBA1-30F2-45B2-B0DD-E57AFB099F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6466DBA1-30F2-45B2-B0DD-E57AFB099F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6466DBA1-30F2-45B2-B0DD-E57AFB099F64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
