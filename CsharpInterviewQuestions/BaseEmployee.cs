@@ -22,6 +22,6 @@ namespace CsharpInterviewQuestions
         //    throw new NotImplementedException();
         //}
 
-        public abstract int GetMonthlySalary(); // inhereted(derived) class has to have implementation
+        public abstract int GetMonthlySalary(); // inhereted(derived) class has to have implementation        
     }
 }

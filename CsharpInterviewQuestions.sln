@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependecyConstructorInjecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyPropertyInjection", "DependencyPropertyInjection\DependencyPropertyInjection.csproj", "{83A31969-DD75-48A6-8793-2FA462DD5D9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyMethodInjection", "DependencyMethodInjection\DependencyMethodInjection.csproj", "{56A35121-7379-4EAE-B98B-DC5AC2298D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceConcept", "InterfaceConcept\InterfaceConcept.csproj", "{216BA50A-F416-456F-A4CA-79D372D9CD98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{83A31969-DD75-48A6-8793-2FA462DD5D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83A31969-DD75-48A6-8793-2FA462DD5D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83A31969-DD75-48A6-8793-2FA462DD5D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A35121-7379-4EAE-B98B-DC5AC2298D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A35121-7379-4EAE-B98B-DC5AC2298D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A35121-7379-4EAE-B98B-DC5AC2298D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A35121-7379-4EAE-B98B-DC5AC2298D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216BA50A-F416-456F-A4CA-79D372D9CD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216BA50A-F416-456F-A4CA-79D372D9CD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216BA50A-F416-456F-A4CA-79D372D9CD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216BA50A-F416-456F-A4CA-79D372D9CD98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
