@@ -7,9 +7,21 @@ using System.Threading.Tasks;
 namespace CsharpInterviewQuestions
 {
     class Program
-    {
+    {      
         static void Main(string[] args)
         {
+            //BaseEmployee be = new BaseEmployee()
+            //{
+            //    ID = 103,
+            //    FirstName = "Plag",
+            //    LastName = "Osim"
+            //};
+
+            //Console.WriteLine(be.GetFullName());
+            //Console.WriteLine(be.GetMonthlySalary());
+
+            /* to prevent making instance of base class */
+
             FullTimeEmployee fte = new FullTimeEmployee()
             {
                 ID = 101,

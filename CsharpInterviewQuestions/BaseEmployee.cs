@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CsharpInterviewQuestions
 {
-    public class BaseEmployee
+    public abstract class BaseEmployee
     {
         public int ID { get; set; }
         public string FirstName { get; set; }
@@ -16,5 +16,12 @@ namespace CsharpInterviewQuestions
         {
             return this.FirstName + " " + LastName;
         }
+
+        //public virtual int GetMonthlySalary()
+        //{
+        //    throw new NotImplementedException();
+        //}
+
+        public abstract int GetMonthlySalary(); // inhereted(derived) class has to have implementation
     }
 }
